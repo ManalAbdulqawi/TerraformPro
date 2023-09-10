@@ -1,0 +1,7 @@
+.terraform
+
+*.pem
+
+Modules/Auto-Scaling/projectkey.pem
+Modules/EC2/my-key-pair.pem
+
